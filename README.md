@@ -1,7 +1,7 @@
 # 🚀 About Me
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJncXljOHBsdGc1b3phcW93YTNweDNtNmFvZndoN3g3cHk2MnNjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O4ek62kVMV9nO/giphy.gif" width="400" alt="Coding GIF">  </p>
 <h1 align="center">💻 🎸 🎮 🇵🇭</h1> <h3 align="center">IT Student | Bassist | Gamer | Philippines</h3>
-<p align="center"> Blending technical skills with creative passions. Currently learning new technologies while keeping my basslines heavy and my gameplay sharp. Always exploring where code, music, and gaming intersect. </p>
+<p align="center"> coby </p>
 
 
 # 🛠️ Skills
